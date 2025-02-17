@@ -1,0 +1,73 @@
+[
+  
+  {
+    "questionNo": 1,
+    "question": "Alice prepared trays of cookies. Fill in the blank boxes to complete the addition and multiplication statement.",
+    "options":["","×",""],
+    "answers": ["3","×","2"],
+    "secondImg":"./images/26.jpg"
+  },
+  {
+    "questionNo": 2,
+    "question": "Alice baked muffins in batches. Fill in the blank boxes to complete the addition and multiplication statement.",
+    "options":["","×",""],
+    "answers": ["3","×","3"],
+    "secondImg":"./images/27.jpg"
+  },
+  {
+    "questionNo": 3,
+    "question": "Alice placed cupcakes on trays. Fill in the blank boxes to complete the addition and multiplication statement.",
+    "options":["","×",""],
+    "answers": ["4","×","2"],
+    "secondImg":"./images/28.jpg"
+  },
+  {
+    "questionNo": 4,
+    "question": "The customers made croissants. Fill in the blank boxes to complete the addition and multiplication statement.",
+    "options":["","×",""],
+    "answers": ["2","×","4"],
+    "secondImg":"./images/29.jpg"
+  },
+  {
+    "questionNo": 5,
+    "question": "Alice packed the cookies for a customer. Fill in the blank boxes to complete the addition and multiplication statement.",
+    "options":["","×",""],
+    "answers": ["6","×","3"],
+    "secondImg":"./images/30.jpg"
+  },
+  {
+    "questionNo": 6,
+    "question": "Alice made sandwiches. Fill in the blank boxes to complete the addition and multiplication statement.",
+    "options":["","×",""],
+    "answers": ["4","×","3"],
+    "secondImg":"./images/31.jpg"
+  },
+  {
+    "questionNo": 7,
+    "question": "Alice placed pies on the trays. Fill in the blank boxes to complete the addition and multiplication statement.",
+    "options":["","×",""],
+    "answers": ["5","×","3"],
+    "secondImg":"./images/32.jpg"
+  },
+  {
+    "questionNo": 8,
+    "question": " Alice made pastries. Fill in the blank boxes to complete the addition and multiplication statement.",
+    "options":["","×",""],
+    "answers": ["2","×","6"],
+    "secondImg":"./images/33.jpg"
+  },
+  {
+    "questionNo": 9,
+    "question": "Alice distributed candies among the customers. Fill in the blank boxes to complete the addition and multiplication statement.",
+    "options":["","×",""],
+    "answers": ["3","×","4"],
+    "secondImg":"./images/34.jpg"
+  },
+  {
+    "questionNo": 10,
+    "question": "Alice set tea cups on the table.  Fill in the blank boxes to complete the addition and multiplication statement.",
+    "options":["","×",""],
+    "answers": ["2","×","6"],
+    "secondImg":"./images/35.jpg"
+  }
+]

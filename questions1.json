@@ -1,0 +1,38 @@
+[
+  
+  {
+    "questionNo": 1,
+    "question": "During the bakery class, Alice gave each learner an equal number of whisk. Fill in the blank boxes to complete the multiplication statement.",
+    "options":["3","×","","=",""],
+    "answers": ["3","×","2","=","6"],
+    "secondImg":"./images/1.png"
+  },
+  {
+    "questionNo": 2,
+    "question": "Each learner received an equal number of cookie cutters to shape their dough. Fill in the blank boxes to complete the addition and multiplication statement.",
+    "options":["2","×","","=",""],
+    "answers": ["2","×","5","=","10"],
+    "secondImg":"./images/2.png"
+  },
+  {
+    "questionNo": 3,
+    "question": "They prepared boxes of chocolates for the bakery class.Fill in the blank boxes to complete the multiplication statement.",
+    "options":["3","×","","=",""],
+    "answers": ["3","×","9","=","27"],
+    "secondImg":"./images/3.png"
+  },
+  {
+    "questionNo": 4,
+    "question": "Alice baked cakes in equal batches.Fill in the blank boxes to complete the multiplication statement.",
+    "options":["4","×","","=",""],
+    "answers": ["4","×","8","=","32"],
+    "secondImg":"./images/4.png"
+  },
+  {
+    "questionNo": 5,
+    "question": "Alice packed boxes of muffins for her customers.Fill in the blank boxes to complete the multiplication statement.",
+    "options":["7","×","","=",""],
+    "answers": ["7","×","2","=","14"],
+    "secondImg":"./images/5.png"
+  }
+]
